@@ -1,0 +1,80 @@
+[1] basis is arguably the greatest computational challenge in cognitive neuroscience more generally-our modern mind-body problem.
+[2] We have outlined an approach to understanding cognition and its origins in terms of Bayesian inference over richly structured, hierarchical gen- erative models. Although we are far from a com- plete understanding of how human minds work and develop, the Bayesian approach brings us closer in several ways. First is the promise of a unifying mathematical language for framing cognition as the solution to inductive problems and building principled quantitative models of thought with a minimum of free parameters and ad hoc assump- tions. Deeper is a framework for understanding why the mind works the way it does, in terms of rational inference adapted to the structure of real- world environments, and what the mind knows about the world, in terms of abstract schemas and intuitive theories revealed only indirectly through how they constrain generalizations. Most importantly, the Bayesian approach lets us move beyond classic either-or dichotomies that have long shaped and limited debates in cognitive science: "empiricism versus nativism," "domain-general versus domain-specific," "logic versus probability," "symbols versus statistics." Instead we can ask harder questions of reverse- engineering, with answers potentially rich enough to help us build more humanlike AI systems. How can domain-general mechanisms of learning and representation build domain-specific systems of knowledge? How can structured symbolic knowledge be acquired through statistical learn- ing? The answers emerging suggest new ways to think about the development of a cognitive system. Powerful abstractions can be learned sur- prisingly quickly, together with or prior to learn- ing the more concrete knowledge they constrain. Structured symbolic representations need not be rigid, static, hard-wired, or brittle. Embedded in a probabilistic framework, they can grow dynam- ically and robustly in response to the sparse, noisy data of experience.
+[3] 1. P. Bloom, How Children Learn the Meanings of Words (MIT Press, Cambridge, MA, 2000).
+[4] 2. F. Xu, J. B. Tenenbaum, Psychol. Rev. 114, 245 (2007).
+[5] 3. S. Pinker, Words and Rules: The Ingredients of Language (Basic, New York, 1999).
+[6] 4. A. Gopnik et al., Psychol. Rev. 111, 3 (2004).
+[7] 5. A. Gopnik, A. N. Meltzoff, Words, Thoughts, and Theories (MIT Press, Cambridge, MA, 1997).
+[8] 6. S. Carey, Conceptual Change in Childhood (MIT Press, Cambridge, MA, 1985).
+[9] 7. S. Carey, The Origin of Concepts (Oxford Univ. Press, New York, 2009).
+[10] 8. P. Godfrey-Smith, Theory and Reality (Univ. of Chicago Press, Chicago, 2003).
+[11] 9. S. Russell, P. Norvig, Artificial Intelligence: A Modern Approach (Prentice Hall, Upper Saddle River, NJ, 2009).
+[12] 10. D. McAllester, in Proceedings of the Eleventh Annual Conference on Computational Learning Theory [Association for Computing Machinery (ACM), New York, 1998], p. 234.
+[13] 11. J. Pearl, Probabilistic Reasoning in Intelligent Systems (Morgan Kaufmann, San Francisco, CA, 1988).
+[14] 12. ]. McClelland, D. Rumelhart, Eds., Parallel Distributed Processing: Explorations in the Microstructure of Cognition (MIT Press, Cambridge, MA, 1986).
+[15] 13. S. Pinker, How the Mind Works (Norton, New York, 1997).
+[16] 14. T. Rogers, ]. McClelland, Semantic Cognition: A Parallel Distributed Processing Approach (MIT Press, Cambridge, MA, 2004).
+[17] 15. P. Niyogi, The Computational Nature of Language Learning and Evolution (MIT Press, Cambridge, MA, 2006).
+[18] 16. T. L. Griffiths, N. Chater, C. Kemp, A. Perfors, ]. B. Tenenbaum, Trends Cogn. Sci. 14, 357 (2010).
+[19] 17. ]. L. McClelland et al., Trends Cogn. Sci. 14, 348 (2010).
+[20] 18. ]. B. Tenenbaum, T. L. Griffiths, Behav. Brain Sci. 24, 629 (2001).
+[21] 19. ]. Tenenbaum, T. Griffiths, in Proceedings of the 23rd Annual Conference of the Cognitive Science Society, ]. D. Moore, K. Stenning, Eds. (Erlbaum, Mahwah, NJ, 2001), pp. 1036-1041.
+[22] 20. T. Griffiths, ]. Tenenbaum, in Proceedings of the 23rd Annual Conference of the Cognitive Science Society, ]. D. Moore, K. Stenning, Eds. (Erlbaum, Mahwah, N], 2001), pp. 370-375.
+[23] 21. T. L. Griffiths, J. B. Tenenbaum, Cognition 103, 180 (2007).
+[24] 22. H. Lu, A. L. Yuille, M. Liljeholm, P. W. Cheng, K. ]. Holyoak, Psychol. Rev. 115, 955 (2008).
+[25] 23. T. L. Griffiths, ]. B. Tenenbaum, Cognit. Psychol. 51, 334 (2005).
+[26] 24. T. R. Krynski, J. B. Tenenbaum, J. Exp. Psychol. Gen. 136, 430 (2007).
+[27] 25. M. Oaksford, N. Chater, Trends Cogn. Sci. 5, 349 (2001).
+[28] 26. T. L. Griffiths, ]. B. Tenenbaum, Psychol. Sci. 17, 767 (2006).
+[29] 27. A. Yuille, D. Kersten, Trends Cogn. Sci. 10, 301 (2006).
+[30] 28. N. Chater, C. D. Manning, Trends Cogn. Sci. 10, 335 (2006).
+[31] 29. R. M. Shiffrin, M. Steyvers, Psychon. Bull. Rev. 4, 145 (1997).
+[32] 30. M. Steyvers, T. L. Griffiths, S. Dennis, Trends Cogn. Sci. 10, 327 (2006).
+[33] 31. K. P. Körding, D. M. Wolpert, Nature 427, 244 (2004).
+[34] 32. A. Tversky, D. Kahneman, Science 185, 1124 (1974).
+[35] 33. E. T. Jaynes, Probability Theory: The Logic of Science (Cambridge Univ. Press, Cambridge, 2003).
+[36] 34. D. J. C. Mackay, Information Theory, Inference, and Learning Algorithms (Cambridge Univ. Press, Cambridge, 2003).
+[37] 35. F. Xu, J. B. Tenenbaum, Dev. Sci. 10, 288 (2007).
+[38] 36. C. Kemp, ]. B. Tenenbaum, Psychol. Rev. 116, 20 (2009).
+[39] 37. H. M. Wellman, S. A. Gelman, Annu. Rev. Psychol. 43, 337 (1992).
+[40] 38. C. Kemp, ]. B. Tenenbaum, S. Niyogi, T. L. Griffiths, Cognition 114, 165 (2010).
+[41] 39. T.L. Griffiths, J. B. Tenenbaum, in Causal Learning: Psychology, Philosophy, and Computation, A. Gopnik, L. Schulz, Eds. (Oxford University Press, Oxford, 2007), pp. 323-345.
+[42] 40. ]. Woodward, Making Things Happen: A Theory of Causal Explanation (Oxford Univ. Press, Oxford, 2003).
+[43] 41. E. S. Markman, Categorization and Naming in Children (MIT Press, Cambridge, MA, 1989).
+[44] 42. R. N. Shepard, Science 210, 390 (1980).
+[45] 43. N. Chomsky, Rules and Representations (Basil Blackwell, Oxford, 1980).
+[46] 44. S. Atran, Behav. Brain Sci. 21, 547, (1998).
+[47] 45. A. Gelman, ]. B. Carlin, H. S. Stern, D. B. Rubin, Bayesian Data Analysis (Chapman and Hall, New York, 1995).
+[48] 46. C. Kemp, A. Perfors, J. B. Tenenbaum, Dev. Sci. 10, 307 (2007).
+[49] 47. C. Kemp, J. B. Tenenbaum, Proc. Natl. Acad. Sci. U.S.A. 105, 10687 (2008).
+[50] 48. V. K. Mansinghka, C. Kemp, ]. B. Tenenbaum, T.L. Griffiths, in Proceedings of the 22nd Conference on Uncertainty in Artificial Intelligence, R. Dechter, T. Richardson, Eds. (AUAI Press, Arlington, VA, 2006), pp. 324-331.
+[51] 49. C. Rasmussen, in Advances in Neural Information Processing Systems (MIT Press, Cambridge, MA, 2000), vol. 12, pp. 554-560.
+[52] 53. S. Goldwater, T. L. Griffiths, M. Johnson, Cognition 112, 21 (2009).
+[53] 54. M. Johnson, T. L. Griffiths, S. Goldwater, in Advances in Neural Information Processing Systems (MIT Press, Cambridge, MA, 2007), vol. 19, pp. 641-648.
+[54] 55. T. L. Griffiths, M. Steyvers, J. B. Tenenbaum, Psychol. Rev. 114, 211 (2007).
+[55] 56. D. Blei, T. Griffiths, M. Jordan, ]. Assoc. Comput. Mach. 57, 1 (2010).
+[56] 57. T. L. Griffiths, Z. Ghahramani, in Advances in Neural Information Processing Systems (MIT Press, Cambridge, MA, 2006), vol. 18, pp. 475-482.
+[57] 58. J. Austerweil, T. L. Griffiths, in Advances in Neural Information Processing Systems (MIT Press, Cambridge, MA, 2009), vol. 21, pp. 97-104.
+[58] 59. N. Chomsky, Language and Problems of Knowledge: The Managua Lectures (MIT Press, Cambridge, MA, 1986).
+[59] 60. E. S. Spelke, K. Breinlinger, ]. Macomber, K. Jacobson, Psychol. Rev. 99, 605 (1992).
+[60] 61. S. Pinker, The Stuff of Thought: Language as a Window into Human Nature (Viking, New York, 2007).
+[61] 62. N. D. Goodman, T. D. Ullman, ]. B. Tenenbaum, Psychol. Rev. 118, 110 (2011).
+[62] 63. N. Goodman et al., in Proceedings of the 28th Annual Conference of the Cognitive Science Society (Erlbaum, Mahwah, NJ, 2006), pp. 1382-1387.
+[63] 64. C. Lucas, T. Griffiths, F. Xu, C. Fawcett, in Advances in Neural Information Processing Systems (MIT Press, Cambridge, MA, 2009), vol. 21, pp. 985-992.
+[64] 65. B. Milch, B. Marthi, S. Russell, in ICML 2004 Workshop on Statistical Relational Learning and Its Connections to Other Fields, T. Dietterich, L. Getoor, K. Murphy, Eds. (Omnipress, Banff, Canada, 2004), pp. 67-73.
+[65] 66. C. Kemp, N. Goodman, J. Tenenbaum, in Proceedings of the 30th Annual Meeting of the Cognitive Science Society (Publisher, City, Country, 2008), pp. 1606-1611.
+[66] 67. N. Goodman, V. Mansinghka, D. Roy, K. Bonawitz, ]. Tenenbaum, in Proceedings of the 24th Conference on Uncertainty in Artificial Intelligence (AUAI Press, Corvallis, OR, 2008), vol. 22, p. 23.
+[67] 68. D. Marr, Vision (W. H. Freeman, San Francisco, CA, 1982).
+[68] 69. J. B. Tenenbaum, T. L. Griffiths, in Advances in Neural Information Processing Systems, T. Leen, T. Dietterich, V. Tresp, Eds. (MIT Press, Cambridge, MA, 2001), vol. 13, pp. 59-65.
+[69] 70. A. N. Sanborn, T. L. Griffiths, D. ]. Navarro, in Proceedings of the 28th Annual Conference of the Cognitive Science Society (Erlbaum, Mahwah, NJ, 2006), pp. 726-731.
+[70] 71. S. D. Brown, M. Steyvers, Cognit. Psychol. 58, 49 (2009).
+[71] 72. R. Levy, F. Reali, T. L. Griffiths, in Advances in Neural Information Processing Systems, D. Koller, D. Schuurmans, Y. Bengio, L. Bottou, Eds. (MIT Press, Cambridge, MA, 2009), vol. 21, pp. 937-944.
+[72] 73. ]. Fiser, P. Berkes, G. Orbán, M. Lengyel, Trends Cogn. Sci. 14, 119 (2010).
+[73] 74. E. Vul, N. D. Goodman, T. L. Griffiths, ]. B. Tenenbaum, in Proceedings of the 31st Annual Conference of the Cognitive Science Society (Erlbaum, Mahwah, NJ, 2009), pp. 148-153.
+[74] 75. L. Schmidt, thesis, Massachusetts Institute of Technology, Cambridge, MA (2009).
+[75] 76. We gratefully acknowledge the suggestions of R. R. Saxe, M. Bernstein, and ]. M. Tenenbaum on this manuscript and the collaboration of N. Chater and A. Yuille on a forthcoming joint book expanding on the methods and perspectives reviewed here. Grant support was provided by Air Force Office of Scientific Research, Office of Naval Research, Army Research Office, NSF, Defense Advanced Research Projects Agency, Nippon Telephone and Telegraph Communication Sciences Laboratories, Qualcomm, Google, Schlumberger, and the James S. McDonnell Foundation.
+[76] 50. ]. R. Anderson, Psychol. Rev. 98, 409 (1991).
+[77] 51. T. L. Griffiths, A. N. Sanborn, K. R. Canini, D. ]. Navarro, in The Probabilistic Mind, N. Chater, M. Oaksford, Eds. (Oxford Univ. Press, Oxford, 2008).
+[78] 52. P. Shafto, C. Kemp, V. Mansinghka, M. Gordon, ]. B. Tenenbaum, in Proceedings of the 28th Annual Conference of the Cognitive Science Society (Erlbaum, Mahwah, N], 2006), pp. 2146-2151.
+[79] www.sciencemag.org/cgi/content/full/331/6022/1279/DC1 SOM Text Figs. S1 to S5 References
+[80] 10.1126/science.1192788

@@ -1,0 +1,29 @@
+[1] Baron, J., and Gürçay, B. 2017. A meta-analysis of response-time tests of the sequential two-systems model of moral judgment. Memory & Cognition 45(4):566-575.
+[2] Bentham, J. 1789. An Introduction to the Principles of Morals and Legislation.
+[3] Blake, P. R.; McAuliffe, K.; Corbit, J.; Callaghan, T. C.; Barry, O.; Bowie, A.; Kleutsch, L.; Kramer, K. L.; Ross, E.; Vongsachang, H.; Wrangham, R.; and Warneken, F. 2015. The ontogeny of fairness in seven societies. Nature 528(7581):258-261.
+[4] Bonnefon, J.-F.; Shariff, A.; and Rahwan, I. 2016. The social dilemma of autonomous vehicles. Science 352(6293):15 LP - 1576.
+[5] Cain, N., and Shea-Brown, E. 2012. Computational models of decision making: Integration, stability, and noise.
+[6] Carey, S. 2009. The origin of concepts. Oxford University Press.
+[7] Felbo, B.; Mislove, A.; Søgaard, A.; Rahwan, I.; and Lehmann, S. 2017. Using millions of emoji occurrences to learn any-domain representations for detecting senti- ment, emotion and sarcasm. In Conference on Empirical Methods in Natural Language Processing (EMNLP).
+[8] Gelman, A.; Carlin, J. B.; Stern, H. S.; Dunson, D. B.; Ve- htari, A.; and Rubin, D. B. 2013. Bayesian Data Analysis, Third Edition. Chapman & Hall/CRC Texts in Statistical Science. Taylor & Francis.
+[9] Goodman, B., and Flaxman, S. 2016. European Union regu- lations on algorithmic decision-making and a &quot;right to explanation&quot;.
+[10] Gopnik, A., and Meltzoff, A. N. 1997. Words, thoughts, and theories. Learning, development, and conceptual change. Cambridge, MA, US: The MIT Press.
+[11] Graham, J.; Haidt, J.; and Nosek, B. A. 2009. Liberals and conservatives rely on different sets of moral foundations. Journal of Personality and Social Psychology.
+[12] Haidt, J. 2001. The emotional dog and its rational tail: A social intuitionist approach to moral judgment. Psycho- logical Review.
+[13] Henrich, J.; Boyd, R.; Bowles, S.; Camerer, C.; Fehr, E.; Gintis, H.; and McElreath, R. 2001. In Search of Homo Economicus: Behavioral Experiments in 15 Small-Scale Societies. The American Economic Review 91(2):73-78.
+[14] House, B. R.; Silk, J. B.; Henrich, J.; Barrett, H. C.; Scelza, B. A.; Boyette, A. H.; Hewlett, B. S.; McElreath, R.; and Laurence, S. 2013. Ontogeny of prosocial behavior across diverse societies. Proceedings of the National Academy of Sciences 110(36):14586-14591.
+[15] Kleiman-Weiner, M.; Saxe, R.; and Tenenbaum, J. B. 2017. Learning a commonsense moral theory. Cognition 167:107-123.
+[16] Kohlberg, L. 1981. Essays in Moral Development. In the Philosophy of Moral Development.
+[17] Lei, T.; Barzilay, R.; and Jaakkola, T. 2016. Rationalizing Neural Predictions.
+[18] Lewandowski, D.; Kurowicka, D.; and Joe, H. 2009. Gen- erating random correlation matrices based on vines and extended onion method. Journal of Multivariate Analysis 100(9):1989-2001.
+[19] Mikhail, J. 2007. Universal moral grammar: theory, ev- idence and the future. Trends in Cognitive Sciences 11(4):143-152.
+[20] Mikhail, J. 2011. Elements of Moral Cognition. Cambridge: Cambridge University Press.
+[21] Noothigattu, R.; Gaikwad, S. N. S.; Awad, E.; Dsouza, S.; Rahwan, I.; Ravikumar, P.; and Procaccia, A. D. 2017. A Voting-Based System for Ethical Decision Making.
+[22] Oord, A. V. d.; Dieleman, S.; Zen, H.; Simonyan, K.; Vinyals, O.; Graves, A.; Kalchbrenner, N.; Senior, A.; and Kavukcuoglu, K. 2016. WaveNet: A Generative Model for Raw Audio. 1-15.
+[23] Rai, P., and Daumé, H. 2009. The Infinite Hierarchical Fac- tor Regression Model. Advances in Neural Information Processing Systems 21 1321-1328.
+[24] Ratcliff, R., and McKoon, G. 2008. The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks. Neural computation 20(4):873-922.
+[25] Santoro, A.; Bartunov, S.; Botvinick, M.; Wierstra, D.; and Lillicrap, T. 2016. One-shot Learning with Memory- Augmented Neural Networks. Smith, P. L., and Ratcliff, R. 2004. Psychology and neuro- biology of simple decisions. Trends in neurosciences.
+[26] Szegedy, C.; Liu, W.; Jia, Y.; Sermanet, P.; Reed, S.; Anguelov, D.; Erhan, D.; Vanhoucke, V.; and Rabinovich, A. Going Deeper with Convolutions.
+[27] Tenenbaum, J. B.; Kemp, C.; Griffiths, T. L.; and Goodman, N. D. 2011. How to Grow a Mind: Statistics, Structure, and Abstraction. Science 331(6022):1279. Thomas L. Griffiths, Z. G. 2005. Infinite Latent Feature Models and the Indian Buffet Process. Advances in Neu- ral Information Processing Systems 18 475482.
+[28] Wu, Y.; Schuster, M.; Chen, Z.; Le, Q. V.; Norouzi, M.; Macherey, W.; Krikun, M.; Cao, Y.; Gao, Q.; Macherey, K.; Klingner, J.; Shah, A.; Johnson, M.; Liu, X.; Kaiser, ;; Gouws, S.; Kato, Y.; Kudo, T.; Kazawa, H.; Stevens, K.; Kurian, G.; Patil, N.; Wang, W.; Young, C.; Smith, J.; Riesa, J.; Rudnick, A.; Vinyals, O.; Corrado, G.; Hughes, M.; and Dean, J. 2016. Google's Neural Machine Trans- lation System: Bridging the Gap between Human and Ma- chine Translation.
+[29] Vinyals, O.; Blundell, C.; Lillicrap, T.; Kavukcuoglu, K.; and Wierstra, D. 2016. Matching Networks for One Shot Learning.
