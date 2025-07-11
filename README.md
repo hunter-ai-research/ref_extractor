@@ -16,3 +16,11 @@ After setting up the project, run the app using `python ./src/main.py [path to r
 To not drain your AWS credits, you can cut all the pages except References/Bibliography section, so that Textract does not parse them.
 
 The program will output the extracted references.
+
+### Customizability
+There is a variety of ways to deal with extracted references. You might want to
+- print them
+- save them to a file
+- send them to your backend
+
+or do anything else. The only thing you need to do is to edit the `handle_references` function located in `./src/handler.py` to serve your needs. 
