@@ -1,8 +1,9 @@
-import json
 import sys
 
 import config
 from reference_extractor import AWSReferenceExtractor
+
+from handler import handle_references
 
 
 def check_usage() -> None:
@@ -24,8 +25,7 @@ def main() -> None:
     extractor = AWSReferenceExtractor(config.AWS_ACCESS_KEY_ID, config.AWS_SECRET_ACCESS_KEY)
     references = extractor.extract_references(sys.argv[1])
 
-    for i in range(len(references)):
-        print(f"[{i + 1}] {references[i]}")
+    handle_references(references)
 
 
 if __name__ == "__main__":
