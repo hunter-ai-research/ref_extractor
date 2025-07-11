@@ -14,7 +14,7 @@ def main() -> None:
     try:
         check_usage()
     except:
-        print("Usage: python [path to research pdf]")
+        print("Usage: python ./src/main.py [path to research pdf]")
         return
 
     if not all([config.AWS_ACCESS_KEY_ID, config.AWS_SECRET_ACCESS_KEY]):
